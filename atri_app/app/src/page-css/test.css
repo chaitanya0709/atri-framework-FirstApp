@@ -1,0 +1,136 @@
+.p-test.Flex38 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-left: 50px;
+padding-right: 50px;
+font-family: IBM Plex Sans;
+font-size: 18px;
+margin-top: ;
+padding-bottom: ;
+padding-top: 20px;
+}
+.p-test.Flex35 {
+display: flex;
+}
+.p-test.Flex31 {
+display: flex;
+}
+.p-test.Flex32 {
+display: none;
+}
+.p-test.Flex36 {
+display: flex;
+align-items: center;
+column-gap: 10px;
+width: 250px;
+justify-content: flex-end;
+}
+.p-test.Flex33 {
+display: flex;
+}
+.p-test.Menu6 {
+display: none;
+}
+.p-test.Flex30 {
+display: flex;
+}
+.p-test.Flex37 {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.p-test.Flex34 {
+display: flex;
+column-gap: 30px;
+color: #1F2937;
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-test.Image17 {
+width: 250px;
+cursor: pointer;
+}
+.p-test.Image18 {
+width: 32px;
+}
+.p-test.Button11 {
+color: #ffffff;
+background-color: #00204B;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 4px;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #F1945A;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+width: ;
+height: 40px;
+}
+.p-test.TextBox34 {
+;
+}
+.p-test.TextBox35 {
+;
+}
+.p-test.TextBox36 {
+;
+}
+.p-test.TextBox37 {
+;
+}
+.p-test.TextBox38 {
+cursor: pointer;
+}
+.p-test.TextBox39 {
+cursor: pointer;
+}
+.p-test.TextBox40 {
+cursor: pointer;
+}
+@media screen and (max-width: 991px) {
+	.p-test.Flex31.bpt {
+display: none;
+	}
+	.p-test.Flex32.bpt {
+display: flex;
+	}
+	.p-test.Flex33.bpt {
+display: none;
+	}
+	.p-test.Menu6.bpt {
+display: flex;
+cursor: pointer;
+	}
+	.p-test.Flex30.bpt {
+flex-direction: column;
+column-gap: ;
+row-gap: 16px;
+margin-top: 20px;
+align-items: flex-end;
+width: 100px;
+	}
+	.p-test.Flex34.bpt {
+display: none;
+	}
+	.p-test.Image18.bpt {
+cursor: pointer;
+width: ;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-test.Image17.bpt {
+width: 250px;
+	}
+	.p-test.Image18.bpt {
+width: ;
+	}
+}

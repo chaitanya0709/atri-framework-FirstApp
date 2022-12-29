@@ -1,0 +1,71 @@
+[
+  {
+    "str": "@import url('https://fonts.cdnfonts.com/css/ibm-plex-sans-condensed-2');",
+    "method": "css",
+    "imports": {
+      "fonts": []
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import \nurl('https://use.fontawesome.com/releases/v5.5.0/css/all.css');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Font Awesome 5 Brands",
+          "fontStyle": "normal",
+          "fontWeight": "normal"
+        },
+        {
+          "fontFamily": "Font Awesome 5 Free",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 5 Free",
+          "fontStyle": "normal",
+          "fontWeight": 900
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Plus Jakarta Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
